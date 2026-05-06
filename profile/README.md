@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://bitmedia.technology/">🌐 bitmedia.technology</a> ·
-  <a href="https://wa.me/593995077401">💬 WhatsApp +593 99 507 7401</a> ·
-  <a href="https://bitmedia.technology/contactos">✉️ Contacto</a>
+  <a href="mailto:info@bitmedia.technology">✉️ info@bitmedia.technology</a> ·
+  <a href="https://wa.me/593995077401">💬 WhatsApp +593 99 507 7401</a>
 </p>
 
 <p align="center">
@@ -91,8 +91,9 @@ en menos de **24 horas**.
 ## 📫 Hablemos
 
 - 🌐 Web — [bitmedia.technology](https://bitmedia.technology/)
+- ✉️ Email — [info@bitmedia.technology](mailto:info@bitmedia.technology)
 - 💬 WhatsApp — [+593 99 507 7401](https://wa.me/593995077401)
-- ✉️ Formulario — [bitmedia.technology/contactos](https://bitmedia.technology/contactos)
+- 📝 Formulario — [bitmedia.technology/contactos](https://bitmedia.technology/contactos)
 
 ---
 
